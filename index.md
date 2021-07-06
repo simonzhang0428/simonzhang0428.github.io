@@ -5,3 +5,6 @@
 
 ## Daily Check
 [link](https://github.com/simonzhang0428/leetcode/blob/main/DailyCheck.pdf)
+
+## Recommendation Web App
+[link](https://github.com/simonzhang0428/RecommendationApp)

@@ -1,5 +1,8 @@
 # Welcome to Simon Zhang's Page
 
+## LinkedIn
+[link](https://www.linkedin.com/in/simonzhangucla/)
+
 ## Leetcode 
 [link](https://simonzhang0428.github.io/leetcode/)
 
